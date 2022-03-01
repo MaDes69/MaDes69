@@ -3,7 +3,7 @@
 <h1>✨Bonjour✨I'm Marion.</h1>
 <p><img align= "right"  src="https://github.com/MaDes69/MaDes69/blob/main/img/She.gif" width="300"  /></p> 
 
-<p> En formation développer Web fullstack, jusqu'en Juillet 2022</p>
+<p> En formation développeur Web fullstack, jusqu'en Juillet 2022</p>
 
 
 ![Mades's github stats](https://github-readme-stats.vercel.app/api?username=MaDes69&show_icons=true&theme=dracula)
@@ -45,7 +45,7 @@
 ## Contact Me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mariondesmurs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariondesmurs/)](https://www.linkedin.com/in/mariondesmurs/)
-[![Instagram Badge](https://img.shields.io/badge/-@MaDes69-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/MaDes69/)](https://instagram.com/MaDes69)
+[![Instagram Badge](https://img.shields.io/badge/-@Ma.Des69-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Ma.Des69/)](https://instagram.com/Ma.Des69)
 [![Gmail Badge](https://img.shields.io/badge/-mariondesmurs-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mariondesmurs@gmail.com)](mailto:mariondesmurs@gmail.com)
 
 
