@@ -42,6 +42,8 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff) -->
 
+![MaDes69 snake gif](https://github.com/MaDes69/MaDes69/blob/master/github-contribution-grid-snake.svg)
+
 ## Contact Me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mariondesmurs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marion-desmurs-28290b223/)](https://www.linkedin.com/in/marion-desmurs-28290b223/)
