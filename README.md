@@ -44,7 +44,7 @@
 
 ## Contact Me 
 
-[![Linkedin Badge](https://img.shields.io/badge/-mariondesmurs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marion-desmurs/)](https://www.linkedin.com/in/marion-desmurs/)
+[![Linkedin Badge](https://img.shields.io/badge/-mariondesmurs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marion-desmurs-28290b223/)](https://www.linkedin.com/in/marion-desmurs-28290b223/)
 [![Instagram Badge](https://img.shields.io/badge/-@Ma.Des69-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Ma.Des69/)](https://instagram.com/Ma.Des69)
 [![Gmail Badge](https://img.shields.io/badge/-mariondesmurs-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mariondesmurs@gmail.com)](mailto:mariondesmurs@gmail.com)
 
