@@ -1,7 +1,7 @@
 
 <!--  ![IM](https://github.com/MaDes69/MaDes69/blob/main/img/IronMan.gif); -->
 <h1>✨Bonjour✨I'm Marion.</h1>
-<p><img align= "right"  src="https://github.com/MaDes69/MaDes69/blob/main/img/She.gif" width="350" height="400" /></p> 
+<p><img align= "right"  src="https://github.com/MaDes69/MaDes69/blob/main/img/She.gif" width="300"  /></p> 
 
 <p> En formation développer Web fullstack, jusqu'en Juillet 2022</p>
 
@@ -12,12 +12,12 @@
 
 ## Technologies, I use :
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://github.com/MaDes69/MaDes69/blob/main/img/html.gif" width="100"><br><br>
+<img src="https://github.com/MaDes69/MaDes69/blob/main/img/html.gif" width="100"><img src="https://github.com/MaDes69/MaDes69/blob/main/img/css.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://github.com/MaDes69/MaDes69/blob/main/img/node.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 
 
+
+<!-- <img src="https://github.com/MaDes69/MaDes69/blob/main/img/mongo.gif" width="100"> -->
  
-
-
 <!-- <p>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
