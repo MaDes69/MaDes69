@@ -42,7 +42,11 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff) -->
 
-### Contact Me 
+## Contact Me 
+
+[![Linkedin Badge](https://img.shields.io/badge/-mariondesmurs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariondesmurs/)](https://www.linkedin.com/in/mariondesmurs/)
+[![Instagram Badge](https://img.shields.io/badge/-@MaDes69-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/MaDes69/)](https://instagram.com/MaDes69)
+[![Gmail Badge](https://img.shields.io/badge/-mariondesmurs-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mariondesmurs@gmail.com)](mailto:mariondesmurs@gmail.com)
 
 
 
