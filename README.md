@@ -13,7 +13,7 @@
 
 ## Technologies, I use :
 
-<img src="https://github.com/MaDes69/MaDes69/blob/main/img/html.gif" width="100"><img src="https://github.com/MaDes69/MaDes69/blob/main/img/css.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://github.com/MaDes69/MaDes69/blob/main/img/firebase.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+<img src="https://github.com/MaDes69/MaDes69/blob/main/img/html.gif" width="100"><img src="https://github.com/MaDes69/MaDes69/blob/main/img/css.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://github.com/MaDes69/MaDes69/blob/main/img/firebase.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><br><br>
 
 
 
