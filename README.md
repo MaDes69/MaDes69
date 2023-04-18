@@ -1,7 +1,7 @@
 
 <!--  ![IM](https://github.com/MaDes69/MaDes69/blob/main/img/IronMan.gif); -->
-<h1>✨Bonjour✨I'm Marion.</h1>
-<p><p align= "left"> En formation développeur Web fullstack, jusqu'en Juillet 2022</p><img align= "right"  src="https://github.com/MaDes69/MaDes69/blob/main/img/She.gif" width="300"  /></p> 
+<h1>✨Bonjour✨Je suis Marion.</h1>
+<p><p align= "left"> </p><img align= "right"  src="https://github.com/MaDes69/MaDes69/blob/main/img/She.gif" width="300"  /></p> 
 
 
 
